@@ -23,3 +23,6 @@ def addinfo(request):
         'form': form,
     }
     return render(request, 'dashboard/addinfo.html', context)
+
+
+#next funcation
